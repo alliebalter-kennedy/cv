@@ -21,7 +21,7 @@
 **Bates College**, B.S., cum laude, Phi Beta Kappa (2014)
 *Lewiston, Maine*
 
-***
+---
 
 ### Selected Awards and Fellowships 
 
@@ -36,7 +36,7 @@
 * *Otis Environmental Fellow*, Bates College (2013)
  * Interviewed Saami reindeer herders in Arctic Norway about the impacts of climate change, land use and resource extraction on reindeer migration. Check out my [blog](https://seventynorth.wordpress.com/) describing my findings and experience!
 
-***
+---
 
 ### Employment and Teaching Experience
 
@@ -78,7 +78,7 @@
 **Director**, Bates College Outdoor Orientation Program (2012–2013)
  * Organized all aspects of the country’s largest remaining student-run outdoor orientation program. Planned 60 4-day camping trips for 350 first-year students. Hired 100 student leaders, conducted leader training. Managed $100,000 budget.
 
-***
+---
 
 ### Leadership Experience
 
@@ -110,12 +110,19 @@
 ### Selected Conference Presentations
 
 **Balter-Kennedy, A.**, Young, N.E., Briner, J.P., Graham, B.L. (December 2020). Short- and long-term subglacial erosion rates from Be-10 measurements in recently deglaciated bedrock at Jakobshavn Isbrae, American Geophysical Union Fall Meeting. 
+
 **Balter, A.**, Bromley, G., Balco, G., Thomas, H., Jackson, M. (December 2018). A 14.5-million-year record of East Antarctic Ice Sheet fluctuations from the central Transantarctic Mountains, constrained with cosmogenic He-3, Be-10, Ne-21, and Al-26. American Geophysical Union Fall Meeting. 
+
 **Balter, A.**, Bromley, G., Balco, G., Thomas, H., Jackson, M., **Invited**, (August 2018). A 14.5-million-year record of East Antarctic Ice Sheet fluctuations from the central Transantarctic Mountains, constrained with cosmogenic He-3, Be-10, Ne-21, and Al-26. Goldschmidt Conference.
+
 **Balter, A.**, Bromley, G., Balco, G., Thomas, H., Jackson, M. (October 2017). A middle Pleistocene through middle Miocene moraine sequence in the central Transantarctic Mountains, Antarctica. Geological Society of America Annual Meeting.
+
 **Balter, A.**, Bromley, G., Balco, G., Thomas, H., Jackson, M. (October 2017). A middle Pleistocene through middle Miocene moraine sequence in the central Transantarctic Mountains, Antarctica. Interdisciplinary Antarctic Earth Science Meeting.
+
 **Balter, A.**, Bromley, G., Balco, G., Thomas, H., Jackson, M. (October 2017) A middle Pleistocene through middle Miocene moraine sequence in the central Transantarctic Mountains, Antarctica. Comer Climate Conference. Balter, A., Bromley, G., Balco, G., Thomas, H., Jackson, M. (October 2016). Poster. Shackleton’s Endurance? A Glimpse of Ice Sheet Behavior in a warmer world. Comer Climate Conference.
+
 **Balter, A.**, Retelle, M., Richter, N. (April 2014). A Late Holocene environmental reconstruction of Linnedalen, Svalbard using geochemical and productivity proxies. Geological Society of Maine Spring Meeting.
+
 **Balter, A.**, Retelle, M., Richter, N. (March 2014). Poster. A Late Holocene environmental reconstruction of Linnedalen, Svalbard using geochemical and productivity proxies. Arctic Workshop.
 
 ---
