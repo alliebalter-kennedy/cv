@@ -26,7 +26,7 @@
 
 ---
 
-### Selected Awards and Fellowships 
+### 🏆 Selected Awards and Fellowships 
 
 * *Graduate Research Fellowship*, National Science Foundation (2018–present)
 * *Columbia Climate Center Grant*, $10,000 (2019–2021)
@@ -41,7 +41,7 @@
 
 ---
 
-### Employment and Teaching Experience
+### 👩🏼‍💻 Employment and Teaching Experience
 
 **Research and TeachingFaculty**, Juneau Icefield Research Progam (2019–present)
 *Juneau, AK*
@@ -83,7 +83,7 @@
 
 ---
 
-### Leadership Experience
+### 🙋🏼‍♀️ Leadership Experience
 
 **Schaefer Cosmo Group**, Lamont-Doherty Earth Observatory of Columbia University (2018–present)
  * Co-organized research group meetings: select discussion topics, coordinate logistics, maintain inclusive environment.
@@ -100,7 +100,7 @@
 
 ***
 
-### Selected Field Experience
+### 🏔 Selected Field Experience
 * *Graduate Assistant*, Greenland (2018)
 * *Graduate Assistant*, Falkland Islands (2018)
 * *Graduate Assistant*, Antarctica (2016–2017; 2017–2018)
@@ -110,7 +110,7 @@
 
 ---
 
-### Selected Conference Presentations
+### 🗣 Selected Conference Presentations
 
 **Balter-Kennedy, A.**, Young, N.E., Briner, J.P., Graham, B.L. (December 2020). Short- and long-term subglacial erosion rates from Be-10 measurements in recently deglaciated bedrock at Jakobshavn Isbrae, American Geophysical Union Fall Meeting. 
 
@@ -130,7 +130,7 @@
 
 ---
 
-### Publications
+### 📝 Publications
 
 **Balter-Kennedy, A.**, Young, N.E., Briner, J.P., Graham, B.L. (*submitted* 2021). Centennial- and orbital-scale erosion beneath the Greenland Ice Sheet. Submitted to Journal of Geophysical Research: Earth Surface. [Pre-print PDF](Pre-Print_Balter-Kennedy2021_JakobshavnErosion.pdf)
 
