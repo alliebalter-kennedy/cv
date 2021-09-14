@@ -16,9 +16,7 @@
  * Published 1 article (with 1 more in prep) in a top international journal in my field.
  * Presented research at 5 prestigious conferences in the US.
 
-
-
-
+#### B.S., Bates College, cum laude, Phi Beta Kappa (2014)
 
 You can use the [editor on GitHub](https://github.com/alliebalter-kennedy/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
