@@ -1,6 +1,8 @@
 ## Allie Balter-Kennedy
 *cosmogenic-nuclide geochemist on the job market*
 
+I am a PhD candidate seeking employment. My collaborative approach to finding creative solutions is highlighted by my experience leading field teams in Antarctica and Alaska, my history of earning research grants and awards, and commitment to fostering an inclusive work environment. 
+
 [Email](abalter@ldeo.columbia.edu) / [Website](alliebalter-kennedy.github.io) / [GitHub](https://github.com/alliebalter-kennedy) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=zZV34mEAAAAJ)
 
 ### 👩🏼‍🎓 Education
@@ -110,7 +112,7 @@
 
 ---
 
-### 🗣 Selected Conference Presentations
+### 🎙 Selected Conference Presentations
 
 **Balter-Kennedy, A.**, Young, N.E., Briner, J.P., Graham, B.L. (December 2020). Short- and long-term subglacial erosion rates from Be-10 measurements in recently deglaciated bedrock at Jakobshavn Isbrae, American Geophysical Union Fall Meeting. 
 
