@@ -25,14 +25,15 @@
 
 ### Selected Awards and Fellowships 
 
-*Graduate Research Fellowship*, National Science Foundation (2018–present)
-*Columbia Climate Center Grant*, $10,000 (2019–2021)
-*Grant-in-Aid of Research*, Sigma Xi (2017)
-*Arthur D. Howard Award for Outstanding M.S. Research*, Geological Society of America (2017)
-*Graduate Student Research Grant*, Geological Society of America (2017)
-*Churchill Exploration Grant*, University of Maine (2017)
-*Dana Scholar Award*, Bates College (2011–2014)
-*Otis Environmental Fellow*, Bates College (2013)
+* *Graduate Research Fellowship*, National Science Foundation (2018–present)
+* *Columbia Climate Center Grant*, $10,000 (2019–2021)
+* *Grant-in-Aid of Research*, Sigma Xi (2017)
+* *Arthur D. Howard Award for Outstanding M.S. Research*, Geological Society of America (2017)
+* *Graduate Student Research Grant*, Geological Society of America (2017)
+* *Churchill Exploration Grant*, University of Maine (2017)
+* *Goodspeed Sawyer Award for Service*, Bates College Outing Club (2014)
+* *Dana Scholar Award*, Bates College (2011–2014)
+* *Otis Environmental Fellow*, Bates College (2013)
  * Interviewed Saami reindeer herders in Arctic Norway about the impacts of climate change, land use and resource extraction on reindeer migration. Check out my [blog](https://seventynorth.wordpress.com/) describing my findings and experience!
 
 ***
@@ -97,19 +98,32 @@
 ***
 
 ### Selected Field Experience
-*Graduate Assistant*, Greenland (2018)
-*Graduate Assistant*, Falkland Islands (2018)
-*Graduate Assistant*, Antarctica (2016–2017; 2017–2018)
-*Principal Investigator*, Colorado (2017)
-*Graduate Assistant*, Scotland (2017)
-*Undergraduate Assistant*, Svalbard (2013)
+* *Graduate Assistant*, Greenland (2018)
+* *Graduate Assistant*, Falkland Islands (2018)
+* *Graduate Assistant*, Antarctica (2016–2017; 2017–2018)
+* *Principal Investigator*, Colorado (2017)
+* *Graduate Assistant*, Scotland (2017)
+* *Undergraduate Assistant*, Svalbard (2013)
 
+---
 
+### Selected Conference Presentations
 
-### Jekyll Themes
+**Balter-Kennedy, A.**, Young, N.E., Briner, J.P., Graham, B.L. (December 2020). Short- and long-term subglacial erosion rates from Be-10 measurements in recently deglaciated bedrock at Jakobshavn Isbrae, American Geophysical Union Fall Meeting. 
+**Balter, A.**, Bromley, G., Balco, G., Thomas, H., Jackson, M. (December 2018). A 14.5-million-year record of East Antarctic Ice Sheet fluctuations from the central Transantarctic Mountains, constrained with cosmogenic He-3, Be-10, Ne-21, and Al-26. American Geophysical Union Fall Meeting. 
+**Balter, A.**, Bromley, G., Balco, G., Thomas, H., Jackson, M., **Invited**, (August 2018). A 14.5-million-year record of East Antarctic Ice Sheet fluctuations from the central Transantarctic Mountains, constrained with cosmogenic He-3, Be-10, Ne-21, and Al-26. Goldschmidt Conference.
+**Balter, A.**, Bromley, G., Balco, G., Thomas, H., Jackson, M. (October 2017). A middle Pleistocene through middle Miocene moraine sequence in the central Transantarctic Mountains, Antarctica. Geological Society of America Annual Meeting.
+**Balter, A.**, Bromley, G., Balco, G., Thomas, H., Jackson, M. (October 2017). A middle Pleistocene through middle Miocene moraine sequence in the central Transantarctic Mountains, Antarctica. Interdisciplinary Antarctic Earth Science Meeting.
+**Balter, A.**, Bromley, G., Balco, G., Thomas, H., Jackson, M. (October 2017) A middle Pleistocene through middle Miocene moraine sequence in the central Transantarctic Mountains, Antarctica. Comer Climate Conference. Balter, A., Bromley, G., Balco, G., Thomas, H., Jackson, M. (October 2016). Poster. Shackleton’s Endurance? A Glimpse of Ice Sheet Behavior in a warmer world. Comer Climate Conference.
+**Balter, A.**, Retelle, M., Richter, N. (April 2014). A Late Holocene environmental reconstruction of Linnedalen, Svalbard using geochemical and productivity proxies. Geological Society of Maine Spring Meeting.
+**Balter, A.**, Retelle, M., Richter, N. (March 2014). Poster. A Late Holocene environmental reconstruction of Linnedalen, Svalbard using geochemical and productivity proxies. Arctic Workshop.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alliebalter-kennedy/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+### Publications
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Balter-Kennedy, A.**, Young, N.E., Briner, J.P., Graham, B.L. (*submitted* 2021). Centennial- and orbital-scale erosion beneath the Greenland Ice Sheet. Submitted to Journal of Geophysical Research: Earth Surface. [Pre-print PDF](Pre-Print_Balter-Kennedy2021_JakobshavnErosion.pdf)
+
+Young, N. E., Lesnek, A. J., Cuzzone, J. K., Briner, J. P., Badgeley, J. A., **Balter-Kennedy, A.**, et al. (2021). In situ cosmogenic 10Be–14C–26Al measurements from recently deglaciated bedrock as a new tool to decipher changes in Greenland Ice Sheet size. Climate of the Past, 17(1), 419–450. https://doi.org/10.5194/cp-17-419-2021
+
+Balter-Kennedy, A., Bromley, G., Balco, G., Thomas, H., & Jackson, M. S. (2020). A 14.5-million-year record of East Antarctic Ice Sheet fluctuations from the central Transantarctic Mountains, constrained with cosmogenic 3He, 10Be, 21Ne, and 26Al. The Cryosphere, 14(8), 2647–2672. https://doi.org/10.5194/tc-14-2647-2020 [PDF](Balter-Kennedy-2020-A 14.5-million-year record of East Antarctic Ice Sheet fluctuations from the central Transantarctic Mountains, constrained with cosmogenic 3He, 10Be, 21Ne, and 26Al)
