@@ -1,5 +1,16 @@
 ## <div align="center">Allie Balter-Kennedy</div>
 
+# Education
+
+PhD Candidate, Columbia Universtiy (exp. 2023)
+  * Dissertation: *Investigating ice sheet (in)stability using novel cosmogenic-nuclide techniques*
+  * Advised by Joerg Schaefer, a leading researcher in my field, at a top 2 program in my discipline. 
+  * Collaborated with researchers at Columbia University, University at Buffalo, UC Berkeley, the Woods Hole Oceanographic Institute and Lawrence Livermore National Laboratory to develop new methods for evaluating past ice-sheet response to warming. 
+  * Submitted 1 article (with 2 more in prep) in a top international journal in my field. 
+  * Awarded a National Science Foundation Graduate Research Fellowship.
+  * Presented research at 5 prestigious conferences in the US (with more to come!). 
+
+
 You can use the [editor on GitHub](https://github.com/alliebalter-kennedy/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
