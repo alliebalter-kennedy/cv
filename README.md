@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+<div align="center">## Allie Balter-Kennedy \</div>
 
 You can use the [editor on GitHub](https://github.com/alliebalter-kennedy/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
