@@ -2,13 +2,22 @@
 
 ### Education
 
-#### PhD Candidate, Columbia Universtiy (exp. 2023)
+#### M.A., M.Phil., Ph.D. Candidate, Columbia Universtiy (exp. 2023)
   * Dissertation: *Investigating ice sheet (in)stability using novel cosmogenic-nuclide techniques*
   * Advised by Joerg Schaefer, a leading researcher in my field, at a top 2 program in my discipline. 
   * Collaborated with researchers at Columbia University, University at Buffalo, UC Berkeley, the Woods Hole Oceanographic Institute and Lawrence Livermore National Laboratory to develop new methods for evaluating past ice-sheet response to warming. 
   * Submitted 1 article (with 2 more in prep) in a top international journal in my field. 
   * Awarded a National Science Foundation Graduate Research Fellowship.
   * Presented research at 5 prestigious conferences in the US (with more to come!). 
+
+#### M.S., University of Maine (2018)
+ * Thesis title: *A glacial history of Roberts Massif, central Transantarctic Mountains, Antarctica using cosmogenic He-3, Be-10, and Ne-21 exposure ages*
+ * Collaborated with top researcher in my field at UC Berkeley to develop a 15-million-year record of ice-sheet change in Antarctica.
+ * Published 1 article (with 1 more in prep) in a top international journal in my field.
+ * Presented research at 5 prestigious conferences in the US.
+
+
+
 
 
 You can use the [editor on GitHub](https://github.com/alliebalter-kennedy/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
