@@ -16,7 +16,33 @@
  * Published 1 article (with 1 more in prep) in a top international journal in my field.
  * Presented research at 5 prestigious conferences in the US.
 
-#### B.S., Bates College, cum laude, Phi Beta Kappa (2014)
+#### B.S., Bates College, cum laude, Phi Beta Kappa (2014)</div>
+
+### Selected Awards and Fellowships 
+
+*Graduate Research Fellowship*, National Science Foundation (2018–present)
+*Columbia Climate Center Grant*, $10,000 (2019–2021)
+*Grant-in-Aid of Research*, Sigma Xi (2017)
+*Arthur D. Howard Award for Outstanding M.S. Research*, Geological Society of America (2017)
+*Graduate Student Research Grant*, Geological Society of America (2017)
+*Churchill Exploration Grant*, University of Maine (2017)
+*Dana Scholar Award*, Bates College (2011–2014)
+
+### Employment History
+
+#### Faculty, Juneau Icefield Research Progam (2019–present)
+
+
+### Leadership Experience
+
+- schaefer group
+- intern mentor
+- JIRP
+- Bates Outing Club
+- Bates AESOP
+
+
+
 
 You can use the [editor on GitHub](https://github.com/alliebalter-kennedy/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
