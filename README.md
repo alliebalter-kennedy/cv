@@ -1,9 +1,9 @@
 ## Allie Balter-Kennedy
 *cosmogenic-nuclide geochemist on the job market*
 
-[Email](abalter@ldeo.columbia.edu)/[Website](alliebalter-kennedy.github.io)/[GitHub](https://github.com/alliebalter-kennedy)/[Google Scholar](https://scholar.google.com/citations?hl=en&user=zZV34mEAAAAJ)
+[Email](abalter@ldeo.columbia.edu) / [Website](alliebalter-kennedy.github.io) / [GitHub](https://github.com/alliebalter-kennedy) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=zZV34mEAAAAJ)
 
-👩🏼‍🎓 ### Education
+### 👩🏼‍🎓 Education
 
 **Lamont-Doherty Earth Observatory of Columbia University**, M.A., M.Phil., Ph.D. Candidate (exp. 2023)
 *New York City, NY*
