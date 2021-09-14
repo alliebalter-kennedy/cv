@@ -1,4 +1,4 @@
-## <div align="center">Allie Balter-Kennedy</div>
+## Allie Balter-Kennedy
 
 ### Education
 
@@ -133,4 +133,4 @@
 
 Young, N. E., Lesnek, A. J., Cuzzone, J. K., Briner, J. P., Badgeley, J. A., **Balter-Kennedy, A.**, et al. (2021). In situ cosmogenic 10Be–14C–26Al measurements from recently deglaciated bedrock as a new tool to decipher changes in Greenland Ice Sheet size. Climate of the Past, 17(1), 419–450. https://doi.org/10.5194/cp-17-419-2021
 
-Balter-Kennedy, A., Bromley, G., Balco, G., Thomas, H., & Jackson, M. S. (2020). A 14.5-million-year record of East Antarctic Ice Sheet fluctuations from the central Transantarctic Mountains, constrained with cosmogenic 3He, 10Be, 21Ne, and 26Al. The Cryosphere, 14(8), 2647–2672. [PDF](Balter-Kennedy-2020-A 14.5-million-year record of East Antarctic Ice Sheet fluctuations from the central Transantarctic Mountains, constrained with cosmogenic 3He, 10Be, 21Ne, and 26Al.pdf)
+**Balter-Kennedy, A.**, Bromley, G., Balco, G., Thomas, H., & Jackson, M. S. (2020). A 14.5-million-year record of East Antarctic Ice Sheet fluctuations from the central Transantarctic Mountains, constrained with cosmogenic 3He, 10Be, 21Ne, and 26Al. The Cryosphere, 14(8), 2647–2672. [PDF](Balter-Kennedy-2020-A 14.5-million-year record of East Antarctic Ice Sheet fluctuations from the central Transantarctic Mountains, constrained with cosmogenic 3He, 10Be, 21Ne, and 26Al.pdf)
