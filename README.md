@@ -1,9 +1,11 @@
 ## Allie Balter-Kennedy
-*cosmogenic-nuclide geochemist on the job market*
+*cosmogenic-nuclide geochemist*
 
-I am a PhD candidate seeking employment in management consulting. My collaborative approach to finding creative solutions is highlighted by my experience leading field teams in Antarctica and Alaska, my history of earning research grants and awards, and commitment to fostering an inclusive work environment. 
+My collaborative approach to finding creative solutions is highlighted by my experience leading field teams in Antarctica and Alaska, my history of earning research grants and awards, and commitment to fostering an inclusive work environment. 
 
 [Email](abalter@ldeo.columbia.edu) / [Website](alliebalter-kennedy.github.io) / [GitHub](https://github.com/alliebalter-kennedy) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=zZV34mEAAAAJ)
+
+---
 
 ### 👩🏼‍🎓 Education
 
@@ -100,7 +102,7 @@ I am a PhD candidate seeking employment in management consulting. My collaborati
 
 **President, Vice-President**, Bates Outing Club (2013–2014)
 
-***
+---
 
 ### 🏔 Selected Field Experience
 * *Graduate Assistant*, Greenland (2018)
