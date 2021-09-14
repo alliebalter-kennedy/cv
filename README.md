@@ -1,8 +1,8 @@
-# <div align="center">Allie Balter-Kennedy</div>
+## <div align="center">Allie Balter-Kennedy</div>
 
-## Education
+### Education
 
-### PhD Candidate, Columbia Universtiy (exp. 2023)
+#### PhD Candidate, Columbia Universtiy (exp. 2023)
   * Dissertation: *Investigating ice sheet (in)stability using novel cosmogenic-nuclide techniques*
   * Advised by Joerg Schaefer, a leading researcher in my field, at a top 2 program in my discipline. 
   * Collaborated with researchers at Columbia University, University at Buffalo, UC Berkeley, the Woods Hole Oceanographic Institute and Lawrence Livermore National Laboratory to develop new methods for evaluating past ice-sheet response to warming. 
